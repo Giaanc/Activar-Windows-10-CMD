@@ -4,7 +4,7 @@ Ejecutar cmd o powershell como Administrador
 
 
 
-slmgr /ipk *****-*****-*****-*****-*****
+slmgr /ipk "SERIAL"
 
 slmgr /skms kms.digiboy.ir      o      kms.msguides.com
 
