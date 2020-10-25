@@ -6,6 +6,9 @@ slmgr /ipk *****-*****-*****-*****-*****
 slmgr /skms kms.digiboy.ir      o      kms.msguides.com
 slmgr /ato
 
+
+CD-Keys
+
 Windows 10 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 
 Windows 10 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
