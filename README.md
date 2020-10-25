@@ -7,6 +7,7 @@ slmgr /skms kms.digiboy.ir      o      kms.msguides.com
 slmgr /ato
 
 Windows 10 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+
 Windows 10 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
 Windows 10 Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
 Windows 10 Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
