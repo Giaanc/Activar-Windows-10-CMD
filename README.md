@@ -3,7 +3,9 @@
 Ejecutar cmd o powershell como Administrador
 
 slmgr /ipk *****-*****-*****-*****-*****
+
 slmgr /skms kms.digiboy.ir      o      kms.msguides.com
+
 slmgr /ato
 
 
